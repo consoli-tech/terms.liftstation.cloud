@@ -1,4 +1,5 @@
-Terms of Service
+# Consolidated Utilities, Inc. 
+Terms of Service Agreement
 ----------------
 
 These Terms of Service govern your use of the website located at [https://liftstation.cloud](https://liftstation.cloud) and any related services provided by Consolidated Utilities, Inc..
@@ -67,4 +68,8 @@ Any term of these Terms of Service which is wholly or partially void or unenforc
 
 ### Governing Law
 
-These Terms of Service are governed by and construed in accordance with the laws of Georgia. You irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+These Terms of Service are governed by and construed in accordance with the laws of the state of Georgia with venue lying in Chatham County for any court driven dispue resolution. You irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+### Binding Conditions
+
+By using this software the within user of website and app features of Consolidated Utilities, Inc. does hereby agree to be bound by the terms set forth here in above.
