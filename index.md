@@ -1,4 +1,3 @@
-# Consolidated Utilities, Inc. 
 Terms of Service Agreement
 ----------------
 
