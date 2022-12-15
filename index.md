@@ -72,3 +72,4 @@ These Terms of Service are governed by and construed in accordance with the laws
 ### Binding Conditions
 
 By using this software the within user of website and app features of Consoli Tech, LLC does hereby agree to be bound by the terms set forth here in above.
+
