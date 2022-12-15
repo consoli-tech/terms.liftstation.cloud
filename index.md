@@ -1,11 +1,11 @@
 Terms of Service Agreement
 ----------------
 
-These Terms of Service govern your use of the website located at [https://liftstation.cloud](https://liftstation.cloud) and any related services provided by Consolidated Utilities, Inc..
+These Terms of Service govern your use of the website located at [https://liftstation.cloud](https://liftstation.cloud) and any related services provided by Consoli Tech, LLC.
 
-By accessing [https://liftstation.cloud](https://liftstation.cloud), you agree to abide by these Terms of Service and to comply with all applicable laws and regulations. If you do not agree with these Terms of Service, you are prohibited from using or accessing this website or using any other services provided by Consolidated Utilities, Inc..
+By accessing [https://liftstation.cloud](https://liftstation.cloud), you agree to abide by these Terms of Service and to comply with all applicable laws and regulations. If you do not agree with these Terms of Service, you are prohibited from using or accessing this website or using any other services provided by Consoli Tech, LLC.
 
-We, Consolidated Utilities, Inc., reserve the right to review and amend any of these Terms of Service at our sole discretion. Upon doing so, we will update this page. Any changes to these Terms of Service will take effect immediately from the date of publication.
+We, Consoli Tech, LLC, reserve the right to review and amend any of these Terms of Service at our sole discretion. Upon doing so, we will update this page. Any changes to these Terms of Service will take effect immediately from the date of publication.
 
 These Terms of Service were last updated on 20 June 2022.
 
@@ -16,7 +16,7 @@ By using this website, you warrant on behalf of yourself, your users, and other 
 1.  modify, copy, prepare derivative works of, decompile, or reverse engineer any materials and software contained on this website;
 2.  remove any copyright or other proprietary notations from any materials and software on this website;
 3.  transfer the materials to another person or “mirror” the materials on any other server;
-4.  knowingly or negligently use this website or any of its associated services in a way that abuses or disrupts our networks or any other service Consolidated Utilities, Inc. provides;
+4.  knowingly or negligently use this website or any of its associated services in a way that abuses or disrupts our networks or any other service Consoli Tech, LLC provides;
 5.  use this website or its associated services to transmit or publish any harassing, indecent, obscene, fraudulent, or unlawful material;
 6.  use this website or its associated services in violation of any applicable laws or regulations;
 7.  use this website in conjunction with sending unauthorized advertising or spam;
@@ -25,9 +25,9 @@ By using this website, you warrant on behalf of yourself, your users, and other 
 
 ### Intellectual Property
 
-The intellectual property in the materials contained in this website are owned by or licensed to Consolidated Utilities, Inc. and are protected by applicable copyright and trademark law. We grant our users permission to download one copy of the materials for personal, non-commercial transitory use.
+The intellectual property in the materials contained in this website are owned by or licensed to Consoli Tech, LLC and are protected by applicable copyright and trademark law. We grant our users permission to download one copy of the materials for personal, non-commercial transitory use.
 
-This constitutes the grant of a license, not a transfer of title. This license shall automatically terminate if you violate any of these restrictions or the Terms of Service, and may be terminated by Consolidated Utilities, Inc. at any time.
+This constitutes the grant of a license, not a transfer of title. This license shall automatically terminate if you violate any of these restrictions or the Terms of Service, and may be terminated by Consoli Tech, LLC at any time.
 
 ### User-Generated Content
 
@@ -41,9 +41,9 @@ You give us permission to use your username and other identifying information as
 
 ### Liability
 
-Our website and the materials on our website are provided on an 'as is' basis. To the extent permitted by law, Consolidated Utilities, Inc. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property, or other violation of rights.
+Our website and the materials on our website are provided on an 'as is' basis. To the extent permitted by law, Consoli Tech, LLC makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property, or other violation of rights.
 
-In no event shall Consolidated Utilities, Inc. or its suppliers be liable for any consequential loss suffered or incurred by you or any third party arising from the use or inability to use this website or the materials on this website, even if Consolidated Utilities, Inc. or an authorized representative has been notified, orally or in writing, of the possibility of such damage.
+In no event shall Consoli Tech, LLC or its suppliers be liable for any consequential loss suffered or incurred by you or any third party arising from the use or inability to use this website or the materials on this website, even if Consoli Tech, LLC or an authorized representative has been notified, orally or in writing, of the possibility of such damage.
 
 In the context of this agreement, “consequential loss” includes any consequential loss, indirect loss, real or anticipated loss of profit, loss of benefit, loss of revenue, loss of business, loss of goodwill, loss of opportunity, loss of savings, loss of reputation, loss of use and/or loss or corruption of data, whether under statute, contract, equity, tort (including negligence), indemnity, or otherwise.
 
@@ -51,11 +51,11 @@ Because some jurisdictions do not allow limitations on implied warranties, or li
 
 ### Accuracy of Materials
 
-The materials appearing on our website are not comprehensive and are for general information purposes only. Consolidated Utilities, Inc. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on this website, or otherwise relating to such materials or on any resources linked to this website.
+The materials appearing on our website are not comprehensive and are for general information purposes only. Consoli Tech, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on this website, or otherwise relating to such materials or on any resources linked to this website.
 
 ### Links
 
-Consolidated Utilities, Inc. has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement, approval, or control by Consolidated Utilities, Inc. of the site. Use of any such linked site is at your own risk and we strongly advise you make your own investigations with respect to the suitability of those sites.
+Consoli Tech, LLC has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement, approval, or control by Consoli Tech, LLC of the site. Use of any such linked site is at your own risk and we strongly advise you make your own investigations with respect to the suitability of those sites.
 
 ### Right to Terminate
 
@@ -71,4 +71,4 @@ These Terms of Service are governed by and construed in accordance with the laws
 
 ### Binding Conditions
 
-By using this software the within user of website and app features of Consolidated Utilities, Inc. does hereby agree to be bound by the terms set forth here in above.
+By using this software the within user of website and app features of Consoli Tech, LLC does hereby agree to be bound by the terms set forth here in above.
